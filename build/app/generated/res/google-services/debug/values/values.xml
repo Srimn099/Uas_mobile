@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://pengenalanprofesi-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">466566112835</string>
+    <string name="google_api_key" translatable="false">AIzaSyB9jSJ1xa9AVR8ZSdZ_p-iOfVF17eJG3qs</string>
+    <string name="google_app_id" translatable="false">1:466566112835:android:77303825e92e41502056f6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB9jSJ1xa9AVR8ZSdZ_p-iOfVF17eJG3qs</string>
+    <string name="google_storage_bucket" translatable="false">pengenalanprofesi.firebasestorage.app</string>
+    <string name="project_id" translatable="false">pengenalanprofesi</string>
+</resources>

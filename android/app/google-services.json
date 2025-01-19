@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "466566112835",
+    "firebase_url": "https://pengenalanprofesi-default-rtdb.firebaseio.com",
+    "project_id": "pengenalanprofesi",
+    "storage_bucket": "pengenalanprofesi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466566112835:android:b9432f72935a0c9c2056f6",
+        "android_client_info": {
+          "package_name": "com.pengenalanprofesi.ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jSJ1xa9AVR8ZSdZ_p-iOfVF17eJG3qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466566112835:android:77303825e92e41502056f6",
+        "android_client_info": {
+          "package_name": "com.pengenalanprofesi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jSJ1xa9AVR8ZSdZ_p-iOfVF17eJG3qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
